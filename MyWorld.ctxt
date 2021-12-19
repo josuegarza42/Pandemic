@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment10.params=
+comment10.target=int\ getDammage()
+comment11.params=
+comment11.target=void\ addEnemiesKilled()
+comment12.params=
+comment12.target=int\ getPlayerX()
+comment2.params=
+comment2.target=void\ initializeworld()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=Score\ getScore()
+comment5.params=
+comment5.target=void\ spawnEnemies()
+comment6.params=
+comment6.target=void\ spawnItem()
+comment7.params=
+comment7.target=void\ checkLevel()
+comment8.params=
+comment8.target=void\ resetLevel()
+comment9.params=
+comment9.target=void\ changeImageBackground()
+numComments=13

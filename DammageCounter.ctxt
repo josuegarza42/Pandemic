@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=DammageCounter
+comment1.params=
+comment1.target=DammageCounter()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ getCounterDammage()
+numComments=4

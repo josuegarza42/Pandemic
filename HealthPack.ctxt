@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=HealthPack
+comment1.params=itemType
+comment1.target=HealthPack(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=int\ healthRecover()
+numComments=4

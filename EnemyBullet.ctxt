@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=EnemyBullet
+comment1.params=direction\ enemyType
+comment1.target=EnemyBullet(boolean,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ projectileMove()
+comment4.params=
+comment4.target=void\ removeFromWorld()
+comment5.params=
+comment5.target=int\ getBulletDammage()
+numComments=6
